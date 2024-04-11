@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/1dpAlgB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/96sOLGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create your virtual machine and Remote Desktop connect to it.
