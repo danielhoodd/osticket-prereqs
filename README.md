@@ -37,7 +37,7 @@ Create your virtual machine and Remote Desktop connect to it.
 <br />
 
 <p>
-<img src="https://imgur.com/lHjd9Mb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MboUUbd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In control panel go to programs, 'Turn Windows features on or off'.
